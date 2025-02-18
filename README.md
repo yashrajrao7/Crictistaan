@@ -1,11 +1,7 @@
-# Crictistaan
-Crictistaan is a web-based platform that allows users to explore movies, post reviews, and rate films based on their experiences. The platform features top-rated and trending movies, enabling users to search and filter by genre, year, or title.
-
-
-# CineConnect - Movie Review and Rating Platform
+# Crictistaan - Movie Review and Rating Platform
 
 ## Overview
-CineConnect is a web-based platform designed for movie enthusiasts to explore, review, and rate films. Users can browse top-rated, trending, and newly added movies while admins can manage movie records and moderate reviews to maintain quality content.
+Crictistaan is a web-based platform designed for movie enthusiasts to explore, review, and rate films. Users can browse top-rated, trending, and newly added movies while admins can manage movie records and moderate reviews to maintain quality content.
 
 ## Features
 ### **User Features:**
@@ -21,19 +17,19 @@ CineConnect is a web-based platform designed for movie enthusiasts to explore, r
 ## Tech Stack
 - **Frontend:** React.js (Axios, React Router, Tailwind CSS/Material-UI)
 - **Backend:** Spring Boot (RESTful API, JWT Authentication)
-- **Database:** PostgreSQL/MySQL
+- **Database:** PostgreSQL
 - **Version Control:** Git & GitHub
 
 ## Installation and Setup
 ### **1. Clone the Repository:**
 ```sh
- git clone https://github.com/your-username/cineconnect.git
- cd cineconnect
+ git clone https://github.com/your-username/Crictistaan.git
+ cd Crictistaan
 ```
 
 ### **2. Backend Setup (Spring Boot):**
 - Install Java (JDK 17 or above).
-- Configure PostgreSQL/MySQL.
+- Configure PostgreSQL
 - Set up application.properties with database details.
 - Run the Spring Boot application.
 ```sh
